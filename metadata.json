@@ -1,0 +1,5 @@
+{
+  "name": "Number Buster",
+  "description": "A neon physics-based number merging game. Merge numbers 1-9, reach target scores, and use the shake ability to clear your way!",
+  "requestFramePermissions": []
+}
